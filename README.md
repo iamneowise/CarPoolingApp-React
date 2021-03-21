@@ -2,8 +2,8 @@
 # iamneo | Ecommerce | Car Pooling | React-Springboot-Fullstack-App
 
 ## Project Instructions
-1. The instructions are defined in the word document inside the repository.
-2. You are advised to strictly follow the instructions given in the word document.
+1. The instructions are defined in the document inside the repository.
+2. You are advised to strictly follow the instructions given in the document.
 
 
 
